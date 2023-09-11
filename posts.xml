@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Just testing?</title>
+		<link>http://github.com/Peter-developer01/</link>
+		<description>Feeds sentences. Nothing interesting though, but what about  ping? @Pet</description>
+		<item>
+			<title>Test</title>
+			<link>github.com</link>
+			<guid>github.com/Peter-developer01</guid>
+			<pubDate>Mon, 11 Sep 2023 21:20:00 GMT</pubDate>
+			<description>Feeds sentences. Nothing interesting though, but what about  ping? @Pet</description>
+		</item>
+	</channel>
+</rss>
