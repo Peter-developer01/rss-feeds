@@ -1,22 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-	<channel>
-		<title>Just testing?</title>
-		<link>http://github.com/Peter-developer01/</link>
-		<description>Feeds sentences. Nothing interesting though, but what about  ping? @Pet</description>
-		<item>
-			<title>Test</title>
-			<link>github.com</link>
-			<guid>github.com/Peter-developer01</guid>
-			<pubDate>Mon, 11 Sep 2023 21:20:00 GMT</pubDate>
-			<description>Feeds sentences. Nothing interesting though, but what about  ping? @Pet</description>
-		</item>
-		<item>
-			<title>Test Two</title>
-			<link>github.com</link>
-			<guid>github.com/Peter-developer01</guid>
-			<pubDate>Tue, 12 Sep 2023 07:20:00 GMT</pubDate>
-			<description>Another feed for @Pet.</description>
-		</item>
-	</channel>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="2.0">
+  <channel>
+    <title>Messages from Peter</title>
+    <link>https://github.com/Peter-developer01/rss-feeds/</link>
+    <description>This is messages Peter is posting, yes. Real messages!</description>
+    <image>
+      <url>https://i.stack.imgur.com/37e6G.png</url>
+      <title>Peter</title>
+      <link>https://i.stack.imgur.com/37e6G.png</link>
+    </image>
+    <copyright>admin</copyright>
+    <lastBuildDate>Mon, 11 Sep 2023 04:31:00 GMT</lastBuildDate>
+    <generator>me</generator>
+    <managingEditor>peter@example.com</managingEditor>
+    <webMaster>peter@example.com</webMaster>
+    <meta xmlns="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <item>
+      <title>Messages from Peter 2</title>
+      <guid isPermaLink="false">https://github.com/Peter-developer01/</guid>
+      <link>https://github.com/Peter-developer01/rss-feeds/</link>
+      <pubDate>Mon, 11 Sep 2023 04:31:00 GMT</pubDate>
+      <description><![CDATA[second message]]></description>
+      <category>messages</category>
+    </item>
+    <item>
+      <title>Messages from Peter</title>
+      <guid isPermaLink="false">https://github.com/Peter-developer01/</guid>
+      <link>https://github.com/Peter-developer01/rss-feeds/</link>
+      <pubDate>Mon, 11 Sep 2023 20:31:00 GMT</pubDate>
+      <description><![CDATA[first message]]></description>
+      <category>messages</category>
+    </item>
+  </channel>
 </rss>
