@@ -11,5 +11,12 @@
 			<pubDate>Mon, 11 Sep 2023 21:20:00 GMT</pubDate>
 			<description>Feeds sentences. Nothing interesting though, but what about  ping? @Pet</description>
 		</item>
+		<item>
+			<title>Test Two</title>
+			<link>github.com</link>
+			<guid>github.com/Peter-developer01</guid>
+			<pubDate>Tue, 12 Sep 2023 07:20:00 GMT</pubDate>
+			<description>Another feed for @Pet.</description>
+		</item>
 	</channel>
 </rss>
